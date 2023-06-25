@@ -1,0 +1,10 @@
+﻿  CardDeck.cpp
+C:\Users\Shilpi\source\repos\SDL_UNO\SDL_UNO\JsonData.h(250,2): warning C4091: 'static ': ignored on left of 'JsonData' when no variable is declared
+  CardManager.cpp
+  main.cpp
+C:\Users\Shilpi\source\repos\SDL_UNO\SDL_UNO\JsonData.h(250,2): warning C4091: 'static ': ignored on left of 'JsonData' when no variable is declared
+C:\Users\Shilpi\source\repos\SDL_UNO\SDL_UNO\main.cpp(140,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  JsonData.h
+C:\Users\Shilpi\source\repos\SDL_UNO\SDL_UNO\JsonData.h(250,2): warning C4091: 'static ': ignored on left of 'JsonData' when no variable is declared
+  Generating Code...
+  SDL_UNO.vcxproj -> C:\Users\Shilpi\source\repos\SDL_UNO\x64\Debug\SDL_UNO.exe

@@ -1,0 +1,17 @@
+﻿main.obj : error LNK2019: unresolved external symbol _SDL_GetError referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _SDL_RWFromFile referenced in function "bool __cdecl loadMedia(void)" (?loadMedia@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _SDL_FreeSurface referenced in function "void __cdecl close(void)" (?close@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _SDL_LoadBMP_RW referenced in function "bool __cdecl loadMedia(void)" (?loadMedia@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _SDL_UpperBlit referenced in function _SDL_main
+main.obj : error LNK2019: unresolved external symbol _SDL_CreateWindow referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _SDL_GetWindowSurface referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _SDL_UpdateWindowSurface referenced in function _SDL_main
+main.obj : error LNK2019: unresolved external symbol _SDL_DestroyWindow referenced in function "void __cdecl close(void)" (?close@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol _SDL_PollEvent referenced in function _SDL_main
+main.obj : error LNK2019: unresolved external symbol _SDL_Init referenced in function "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: unresolved external symbol _SDL_Quit referenced in function "void __cdecl close(void)" (?close@@YAXXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Shilpi\Downloads\SDL2-devel-2.28.0-VC\SDL2-2.28.0\lib\x64\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Shilpi\Downloads\SDL2-devel-2.28.0-VC\SDL2-2.28.0\lib\x64\SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Shilpi\Downloads\SDL2_image-devel-2.6.3-VC\SDL2_image-2.6.3\lib\x64\SDL2_image.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Shilpi\source\repos\SDL_UNO\Debug\SDL_UNO.exe : fatal error LNK1120: 13 unresolved externals

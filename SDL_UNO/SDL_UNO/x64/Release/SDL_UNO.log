@@ -1,0 +1,11 @@
+﻿  CardDeck.cpp
+C:\Users\Shilpi\source\repos\SDL_UNO\SDL_UNO\JsonData.h(250,2): warning C4091: 'static ': ignored on left of 'JsonData' when no variable is declared
+  CardManager.cpp
+  JsonData.h
+C:\Users\Shilpi\source\repos\SDL_UNO\SDL_UNO\JsonData.h(250,2): warning C4091: 'static ': ignored on left of 'JsonData' when no variable is declared
+  Generating code
+  0 of 1525 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDL_UNO.vcxproj -> C:\Users\Shilpi\source\repos\SDL_UNO\x64\Release\SDL_UNO.exe
